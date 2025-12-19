@@ -31,3 +31,8 @@ I am currently enrolled in the **Cloud Technology Consultant Professional Certif
 - Client requirements, communication, and documentation
 
 This repository includes my notes, lab summaries, and troubleshooting-style documentation created while progressing through the program.
+### Coursera Artifacts in This Repo
+
+- `coursera/progress.md` – Overall certificate progress and reflections
+- `coursera/aws-cloud-careers-overview.md` – My understanding of AWS career paths and where I fit
+- `coursera/course-2-intro-it-and-aws-notes.md` – Support-focused notes from "Introduction to Information Technology and AWS Cloud"
